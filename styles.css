@@ -9,7 +9,7 @@ body {
     background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZ5Z2ZodjMza2kwOGNreHowOHp3ZHQ2NzlobHN2MnZ2M3dldnl2OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mi6DsSSNKDbUY/giphy.gif");
     background-size: cover;
     padding: 10px 0 40px 0;
-    height: 330px;
+    height: 400px;
 }
 
 #main-logo {
@@ -41,7 +41,4 @@ the blur to 4px and the color to black.
     border-bottom: 4px solid white;
 }
 
-h3 {
-    padding-top: 7px;
-}
    
